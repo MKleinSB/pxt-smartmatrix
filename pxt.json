@@ -1,6 +1,6 @@
 {
     "name": "pxt-smartmatrix",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "controll matrix of RGB-LEDs with you Calliope mini",
     "dependencies": {
         "core": "*",
